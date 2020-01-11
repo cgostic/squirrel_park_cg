@@ -1,6 +1,5 @@
 
-### See the app!  
-[Squirrel-Park-App]()
+### See [Squirrel Park App!](https://squirrel-park-cgostic.herokuapp.com/)
 
 
 This app is a continuation of a group project from Data Visualization II in UBC's Master of Data Science program. The original authors are Cari Gostic, Roc Zhang and Lori Fang. Due to our tight deadline, we turned in the assignment with the understanding that there were many places for improvement. On my own time, I've worked on the app to create a more intuitive layout and refine the code. The original app, turned in as an assignment, can be viewed [here](https://dsci-532-group203-milestone2.herokuapp.com/), and the original Github repository can be viewed [here](https://github.com/UBC-MDS/DSCI-532_group-203_Lab1-2).  

@@ -1,0 +1,87 @@
+.app-side-panel{
+    background-color:#C4BFB9;
+    text-align: left;
+    padding-left: 5%;
+    padding-bottom: 0%;
+    border-right: 6px inset rgb(67, 124, 67);     
+}
+
+.app-side-panel-intro {
+    background-color: #C4BFB9;
+    padding: 5%;
+    text-align: center;
+    border-right: 6px inset rgb(67, 124, 67); 
+  }
+
+.app-panel-list {
+    background-color: #C4BFB9;
+    padding: 1%;
+    text-align: left;
+    border-right: 6px inset rgb(67, 124, 67); 
+  }
+
+.app-logo {
+    background-color: #C4BFB9;
+    padding-left: 12%;
+    border-right: 6px inset rgb(67, 124, 67); 
+  }
+
+.app-behavior-intro {
+    background-color: #C4BFB9;
+    padding-left: 6%;
+    padding-top:50%;
+    padding-bottom:5%;
+    margin: 0;
+    text-align: 'left';
+    border-right: 6px inset rgb(67, 124, 67); 
+}
+
+.app-behavior-arrow {
+    background-color: #C4BFB9;
+    padding-left: 35%;
+    padding-bottom: 106%;
+    margin: 0;
+    border-right: 6px inset rgb(67, 124, 67); 
+}
+
+.app-behavior-dd {
+    background-color: #C4BFB9;
+    padding-left: 6%;
+    margin: 0;
+    border-right: 6px inset rgb(67, 124, 67); 
+}
+
+.app-graphs {
+    padding-top: 1%;
+    padding-left:1%;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+    background-color: white;
+}
+.app-graph-notes-red {
+    padding-top:0%;
+    margin-top:0%;
+    padding-bottom:0%;
+    margin-bottom: 0%;
+    padding-left: 48%;
+    text-align: left;
+    color: rgb(143, 12, 12);
+}
+
+.app-graph-notes-blue {
+    padding-top:0%;
+    margin-top:0%;
+    padding-bottom:0%;
+    padding-left: 48%;
+    text-align: left;
+    color: rgb(70,117,179);
+}
+
+.app-footer {
+    padding-top:1%;
+    padding-bottom:1%;
+    padding-left: 2%;
+    text-align: left;
+    border-top: 6px inset black;
+    background-color: rgba(67, 124, 67, 0.493);
+}

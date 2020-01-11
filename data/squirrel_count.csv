@@ -1,0 +1,49 @@
+,sitename,Unique_Squirrel_ID,Climbing,Approaches,Vocalizations,Running_or_chasing,Eating_or_foraging,Count_diff (AM - PM),sitename_short
+0,110th St & Lenox Ave Plgd,5,2.0,1.0,1.0,2.0,3.0,1.0,110th St. Plgd
+1,79th St Yard And Summit Rock,40,4.0,1.0,1.0,9.0,33.0,-6.0,Summit Rock
+2,"Belvdre. Cstl., Turtle Pond, Shkspr Grdn",44,10.0,0.0,3.0,23.0,31.0,0.0,Turtle Pond Area
+3,Bendheim Plgd,2,0.0,0.0,0.0,1.0,2.0,0.0,Bendheim Plgd
+4,Bernard Plgd,1,0.0,0.0,0.0,1.0,1.0,,Bernard Plgd
+5,Bethesda Terrace,142,42.0,7.0,1.0,37.0,119.0,-24.0,Bethesda Terrace
+6,Blockhouse One,119,30.0,5.0,11.0,45.0,61.0,11.0,Blockhouse One
+7,Cedar Hill,62,17.0,5.0,1.0,24.0,49.0,-12.0,Cedar Hill
+8,Central Park South,108,18.0,4.0,1.0,30.0,84.0,12.0,Central Park S.
+9,Central Park West (Zone 1),48,6.0,1.0,0.0,14.0,40.0,-16.0,Central Park W (Z-1)
+10,Central Park West (Zone 2),71,15.0,2.0,1.0,27.0,50.0,-15.0,Central Park W (Z-2)
+11,Central Park West (Zone 3),57,14.0,5.0,0.0,21.0,48.0,-7.0,Central Park W (Z-3)
+12,Central Park West (Zone 4),74,17.0,3.0,3.0,27.0,50.0,16.0,Central Park W (Z-4)
+13,Conservatory Garden,11,2.0,0.0,0.0,3.0,5.0,1.0,Cons. Garden
+14,Conservatory Gardens West Landscape,63,8.0,3.0,8.0,23.0,44.0,-21.0,Cons. Gardens W.
+15,"Dairy, Chess & Checkers House, Carousel",49,4.0,6.0,0.0,18.0,42.0,-9.0,Carousel Area
+16,East Meadow,57,24.0,1.0,4.0,9.0,29.0,-7.0,E Meadow
+17,Frawleys' Run,31,3.0,1.0,0.0,13.0,21.0,-7.0,Frawleys' Run
+18,Great Lawn And Cleopatra's Needle,104,31.0,7.0,10.0,28.0,76.0,-18.0,Great Lawn
+19,Hallett Nature Sanctuary And Pond,68,12.0,6.0,3.0,18.0,46.0,-4.0,Hallett Nat. Sanc.
+20,Heckscher Ballfields & Playground,160,43.0,17.0,7.0,57.0,116.0,-46.0,Hecksher Ballfields
+21,Heckscher Plgd,11,3.0,1.0,2.0,8.0,5.0,1.0,Heckscher Plgd
+22,James Michael Levin Plgd,2,0.0,0.0,0.0,1.0,1.0,,J.M.L. Plgd
+23,Loch Ravine,78,10.0,2.0,7.0,27.0,55.0,-6.0,Loch Ravine
+24,Mariner's Gate Plgd,1,1.0,0.0,0.0,0.0,0.0,,Mariner's Gate Plgd
+25,North Meadow,136,29.0,10.0,8.0,34.0,100.0,-28.0,N Meadow
+26,North Meadow Recreation Center,84,22.0,4.0,5.0,32.0,72.0,-10.0,N Meadow Rec. Ctr.
+27,North Of The Arsenal,61,13.0,6.0,2.0,20.0,47.0,-11.0,N of the Arsenal
+28,Northwest Corner,17,7.0,0.0,0.0,10.0,8.0,-5.0,NW Corner
+29,Nutter's Battery & Fort Clinton Site,36,4.0,5.0,1.0,9.0,33.0,-8.0,Nutter's Battery
+30,Pat Hoffman Friedman Plgd,3,3.0,0.0,0.0,1.0,3.0,1.0,P.H.F. Plgd
+31,Pilgrim Hill & Conservatory Water,41,9.0,2.0,1.0,7.0,25.0,-19.0,Pilgrim Hill
+32,Reservoir (Northeast),43,14.0,5.0,1.0,12.0,25.0,-19.0,Reservior NE
+33,Reservoir (Northwest),80,22.0,2.0,6.0,23.0,62.0,8.0,Reservoir NW
+34,Reservoir (Southeast),21,7.0,0.0,2.0,7.0,6.0,-9.0,Reservoir SE
+35,Reservoir Running Track & Landscape,2,2.0,0.0,0.0,0.0,3.0,,Res. Running Track
+36,Ross Pinetum,103,22.0,6.0,11.0,43.0,54.0,-31.0,Ross Pinetum
+37,Sheep Meadow,125,23.0,6.0,3.0,42.0,101.0,-15.0,Sheep Meadow
+38,Strawberry Fields,26,5.0,3.0,1.0,13.0,16.0,-10.0,Strawberry Fields
+39,The Great Hill,33,5.0,2.0,1.0,10.0,28.0,-1.0,The Great Hill
+40,The Mall And Rumsey Playfield,127,26.0,3.0,4.0,35.0,78.0,-11.0,The Mall
+41,The Metropolitan Museum Of Art,39,14.0,3.0,1.0,12.0,25.0,-1.0,The Met
+42,The Pool,141,26.0,9.0,19.0,67.0,100.0,-17.0,The Pool
+43,The Ramble,289,51.0,20.0,20.0,85.0,249.0,-7.0,The Ramble
+44,The Tarr-Coyne Tots Playground,2,1.0,2.0,0.0,4.0,3.0,,T.C.T Plgd
+45,Wallach Walk And East Green,80,12.0,2.0,1.0,34.0,66.0,10.0,Wallach Walk
+46,Wien Walk And Arsenal,41,8.0,1.0,0.0,15.0,25.0,-1.0,Wien Walk
+47,Wollman Rink,40,7.0,6.0,0.0,8.0,33.0,-4.0,Wollman Rink
